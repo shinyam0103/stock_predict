@@ -1,0 +1,14 @@
+altair
+mplfinance
+numpy
+pandas
+pandas-datareader
+pillow
+Plotly
+scikit-learn
+scipy
+sklearn
+scipy
+sklearn
+streamlit
+yfinance
