@@ -77,7 +77,7 @@ def stock_predict():
 
     accuracy = model.score(X_test, y_test)
 
-    st.write(f'正答率は{round(accuracy) * 100, 1}%です。')
+    st.write(f'正答率は{round((accuracy) * 100, 1)}%です。')
 
     if accuracy > 0.75:
         st.write('信頼度：高')
